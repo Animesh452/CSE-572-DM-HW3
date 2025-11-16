@@ -1,11 +1,10 @@
 # CSE 572 – Data Mining Homework 3
 
-This repository contains implementations for **Homework 3** of *CSE 572 – Data Mining*.  
-It includes both algorithmic analysis (Task 1) and recommender system modeling (Task 2).
+This repository contains implementations for **Homework 3** of *CSE 572 – Data Mining*. 
 
 ---
 
-## Task 1 – K-Means Clustering (Algorithmic Analysis)
+## Task 1 – K-Means Clustering
 
 - Implemented K-Means from scratch (no external ML libraries).  
 - Distance metrics:  
@@ -18,7 +17,6 @@ It includes both algorithmic analysis (Task 1) and recommender system modeling (
   2. SSE increases  
   3. Maximum iteration limit  
 - Output: detailed results and plots for Q1 – Q5.
-- **NOTE**: It wasn't mentioned if it was required to scale the data or not, but as a general practice I've scaled the data and then implemented the task.
 
 ---
 
@@ -33,3 +31,6 @@ It includes both algorithmic analysis (Task 1) and recommender system modeling (
   - Similarity metrics (Cosine, MSD, Pearson)
   - Number of neighbors (K)
 - Plotted RMSE vs K to identify optimal neighbor sizes.
+
+
+Answers to all questions listed in the HW3 pdf are included in the respective ipynb files.
