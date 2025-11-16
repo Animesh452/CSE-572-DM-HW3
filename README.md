@@ -16,7 +16,7 @@ This repository contains implementations for **Homework 3** of *CSE 572 – Data
   1. No change in centroid position  
   2. SSE increases  
   3. Maximum iteration limit  
-- Output: detailed results and plots for Q1 – Q5.
+- Output: detailed results for Q1 – Q5.
 
 ---
 
