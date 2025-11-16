@@ -22,7 +22,7 @@ It includes both algorithmic analysis (Task 1) and recommender system modeling (
 
 ---
 
-## 🎬 Task 2 – Recommender Systems
+## Task 2 – Recommender Systems
 
 - Built models using the **Surprise** library:
   - **User-based Collaborative Filtering**
